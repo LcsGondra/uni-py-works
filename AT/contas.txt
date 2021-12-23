@@ -1,0 +1,10 @@
+1;teste um;1000.0
+2;nome2 sobre2;-1000.0
+3;nome3 sobre3;2500.0
+4;lucas gondra;1500.0
+5;teste dois;500.0
+7;teste sete;4.0
+8;teste oito;1000.0
+123;um dois tres;123123.0
+321;tres dois um;321.0
+5123;rE VFDS;134234521.0
